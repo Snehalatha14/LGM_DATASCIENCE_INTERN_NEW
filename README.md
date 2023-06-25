@@ -1,2 +1,1 @@
-# LGM_DATASCIENCE_INTERN_NEW
-# LGM_DATASCIENCE_INTERN_NEW
+This is the Repo of Data  Science intern at LGM.
